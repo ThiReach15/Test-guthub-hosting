@@ -13,9 +13,6 @@ body {
     background: rgba(0,0,0,.5);
     height: 50vh;
 }
-nav {
-    
-}
 
 ul {
     margin: 0;
@@ -52,7 +49,7 @@ ul li a:hover {
     width: 200px;
     padding: 15px;
     border:none;
-    background:rgba(0, 191, 255, 0.9);
+    background:rgba(32, 172, 32, 0.9);
     color:#fff;
     font-size: 15px;
     text-transform: uppercase;
@@ -134,7 +131,7 @@ ul li a:hover {
 .btn {
     width: 200px;
     padding: 16px;
-    background: rgba(5, 197, 255, 0.7);
+    background: rgba(5, 238, 94, 0.7);
     text-transform: uppercase;
     font-size: 14px;
     outline: none;
