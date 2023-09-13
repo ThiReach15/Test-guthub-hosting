@@ -10,7 +10,7 @@ body {
     height: 50vh;
 }
 .cover {
-    background: teal;
+    background: rgba(0,0,0,.5);
     height: 50vh;
 }
 nav {
@@ -165,7 +165,7 @@ iframe {
 }
 /* footer */
 footer {
-    background: teal;
+    background: #000;
     padding: 30px;
     text-align: center;
     color: #fff;
